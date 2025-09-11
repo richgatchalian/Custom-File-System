@@ -1,2 +1,2 @@
 # Custom-File-System
-The system simulates core file operations such as creation, deletion, viewing, editing, and listing of files while using contiguous allocation for storage management. Implemented with a block-based virtual disk image, the system demonstrates how real-world file systems like FAT and ext4 handle file allocation and space utilization. 
+A custom file system built in C and shell scripting on Fedora Linux (VirtualBox). It supports file creation, deletion, editing, and listing using contiguous allocation on a block-based virtual disk, offering a simple CLI to explore OS concepts and real-world file system design.
